@@ -2,3 +2,4 @@
 node_modules
 .next
 HELPFUL_INFO.md
+.env
